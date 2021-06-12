@@ -53,7 +53,7 @@ const Timeline = () => {
         working knowledge in HTML, CSS, Bootstrap, JavaScript and ReactJS in Front-end and Nodejs, Express, MongoDB in Back-end. I aspire to be 
         a Full-Stack developer and can put all of my efforts and knowledge to reach the goals and objectives of the company. I've actively organised various events in college fests, Webbed a web development Hackathon
         is one of them. I have participated in various hackathons and submitted some of my ideas. I have added some of my prominent projects
-        above, for more info about me and my projects checkout my Github page and my Linkedin profile.
+        above, for more info about me and my projects checkout my Github page and my Linkedin profile. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
