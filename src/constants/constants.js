@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Covid-19 Tracker',
     description: "Covid-19 Tracker can Track the number of infected and recovered cases across the globe and also based on the country. Data is shown in numbers and also using the Graphs for visualization.It's built using ReactJS and Material UI for styles. External API has been used to get the correct data from the genuine source. This web app is fully responsive and user frienfly. The user will be able to select their country from the drop-down and view the data accordingly.",
-      image: '/images/p1.png',
+      image: '/images/p1.PNG',
       tags: ['React', 'Material UI'],
     source: 'https://github.com/shashanknenar/covid-19-tracker',
     visit: 'https://globalcovid-19.netlify.app/',
